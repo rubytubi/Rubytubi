@@ -1,22 +1,13 @@
-
 <div align="center"> 
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-
-</div>  
-
-안녕하세요.
-이성민입니다.
-
-<div align="center">
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@rubytubi/posts)
 
-</div>
+</div>  
 
+안녕하세요.
+이성민입니다.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -56,3 +47,4 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
+</td></tr></table>
