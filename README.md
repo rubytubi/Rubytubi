@@ -2,9 +2,11 @@
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@rubytubi/posts)
+<a href="https://velog.io/@rubytubi/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" height="60" />
+</a>
 
-</div>  
+</div>
 
 안녕하세요.
 이성민입니다.
