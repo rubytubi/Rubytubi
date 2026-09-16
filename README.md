@@ -9,6 +9,15 @@
 안녕하세요.
 이성민입니다.
 
+<div align="center">
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@rubytubi/posts)
+
+</div>
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
